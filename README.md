@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0189-rotate-array) |
+| [0560-subarray-sum-equals-k](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0560-subarray-sum-equals-k) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1755-defuse-the-bomb](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1755-defuse-the-bomb) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0560-subarray-sum-equals-k) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 ## Monotonic Queue
 |  |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0560-subarray-sum-equals-k) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 ## String
