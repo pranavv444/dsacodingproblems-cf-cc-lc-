@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1972-rotating-the-box](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2089-maximum-matrix-sum) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1972-rotating-the-box](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2089-maximum-matrix-sum) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 ## Greedy
 |  |
 | ------- |
@@ -89,10 +92,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [3189-find-champion-ii](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/3189-find-champion-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
+## Shortest Path
+|  |
+| ------- |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 <!---LeetCode Topics End-->
