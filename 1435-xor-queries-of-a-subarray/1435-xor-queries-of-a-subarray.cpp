@@ -2,23 +2,23 @@ class Solution {
 public:
     vector<int> xorQueries(vector<int>& arr, vector<vector<int>>& queries) {
         int size = arr.size();
-        vector<int> prefXor(size);
+        vector<int> xorque(size);
         
-        for(int indx = 0; indx < size; indx++) {
-            if(indx == 0) 
-                prefXor[indx] = arr[indx];
+        for(int i = 0; i<size; i++) {
+            if(i==0) 
+                xorque[i] = arr[i];
             else 
-                prefXor[indx] = prefXor[indx - 1] ^ arr[indx];
+                xorque[i]=xorque[i-1] ^arr[i];
         }
         
-        vector<int> res(queries.size());
+        vector<int>ans(queries.size());
         int indx = 0;
 
-        for(const auto& quer : queries) {
-            int left = quer[0], right = quer[1];
-            res[indx++] = prefXor[right] ^ ((left == 0) ? 0 : prefXor[left - 1]);
+        for(const auto& query : queries) {
+            int l = query[0], r = query[1];
+            ans[indx++] = xorque[r] ^ ((l==0) ? 0 : xorque[l-1]);
         }
 
-        return res;
+        return ans;
     }
 };
