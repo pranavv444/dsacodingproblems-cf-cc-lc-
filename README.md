@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1972-rotating-the-box](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2089-maximum-matrix-sum) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2232-adding-spaces-to-a-string](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2232-adding-spaces-to-a-string) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2727-number-of-senior-citizens](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2727-number-of-senior-citizens) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1972-rotating-the-box](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1972-rotating-the-box) |
+| [2232-adding-spaces-to-a-string](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2232-adding-spaces-to-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [2232-adding-spaces-to-a-string](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2232-adding-spaces-to-a-string) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2727-number-of-senior-citizens](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2727-number-of-senior-citizens) |
 ## Math
@@ -126,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+## Simulation
+|  |
+| ------- |
+| [2232-adding-spaces-to-a-string](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2232-adding-spaces-to-a-string) |
 <!---LeetCode Topics End-->
