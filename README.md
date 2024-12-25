@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -200,17 +201,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 <!---LeetCode Topics End-->
