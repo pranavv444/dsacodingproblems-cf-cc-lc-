@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1435-xor-queries-of-a-subarray](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1435-xor-queries-of-a-subarray) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1511-count-number-of-teams](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1511-count-number-of-teams) |
+| [1524-string-matching-in-an-array](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1524-string-matching-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0067-add-binary) |
+| [1524-string-matching-in-an-array](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [1524-string-matching-in-an-array](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Simulation
 |  |
