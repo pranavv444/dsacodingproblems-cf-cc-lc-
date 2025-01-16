@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2358-number-of-ways-to-split-array](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2358-number-of-ways-to-split-array) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2465-shifting-letters-ii](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2465-shifting-letters-ii) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0067-add-binary) |
 | [1435-xor-queries-of-a-subarray](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1435-xor-queries-of-a-subarray) |
 | [2509-minimize-xor](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2509-minimize-xor) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Sorting
 |  |
@@ -272,4 +274,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0494-target-sum) |
+## Brainteaser
+|  |
+| ------- |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2533-bitwise-xor-of-all-pairings) |
 <!---LeetCode Topics End-->
