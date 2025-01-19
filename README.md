@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0189-rotate-array) |
+| [0407-trapping-rain-water-ii](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0407-trapping-rain-water-ii) |
 | [0494-target-sum](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0494-target-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0560-subarray-sum-equals-k) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0407-trapping-rain-water-ii) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [2300-construct-string-with-repeat-limit](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2300-construct-string-with-repeat-limit) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0407-trapping-rain-water-ii) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1972-rotating-the-box](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2089-maximum-matrix-sum) |
@@ -187,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0407-trapping-rain-water-ii](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0407-trapping-rain-water-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2493-reverse-odd-levels-of-binary-tree) |
