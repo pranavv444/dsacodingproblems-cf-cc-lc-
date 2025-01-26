@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0820-find-eventual-safe-states](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0820-find-eventual-safe-states) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [3189-find-champion-ii](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/3189-find-champion-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0407-trapping-rain-water-ii](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0407-trapping-rain-water-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0820-find-eventual-safe-states](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1396-count-servers-that-communicate) |
 | [1876-map-of-highest-peak](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1876-map-of-highest-peak) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0820-find-eventual-safe-states](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1396-count-servers-that-communicate) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
@@ -302,4 +305,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1396-count-servers-that-communicate) |
+## Topological Sort
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
