@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1927-maximum-ascending-subarray-sum](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1972-rotating-the-box](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2089-maximum-matrix-sum) |
 | [2145-grid-game](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2145-grid-game) |
