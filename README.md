@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-minimum-cost-for-tickets](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1063-best-sightseeing-pair) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1364-tuple-with-same-product](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1396-count-servers-that-communicate) |
 | [1435-xor-queries-of-a-subarray](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1435-xor-queries-of-a-subarray) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0560-subarray-sum-equals-k) |
 | [0952-word-subsets](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0952-word-subsets) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1364-tuple-with-same-product](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1364-tuple-with-same-product) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1502-construct-k-palindrome-strings](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1364-tuple-with-same-product](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
