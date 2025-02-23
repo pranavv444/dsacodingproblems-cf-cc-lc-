@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0560-subarray-sum-equals-k) |
 | [0854-making-a-large-island](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0854-making-a-large-island) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0952-word-subsets) |
 | [1025-minimum-cost-for-tickets](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1063-best-sightseeing-pair) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0560-subarray-sum-equals-k) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0952-word-subsets) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1160-letter-tile-possibilities](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1160-letter-tile-possibilities) |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -354,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -392,4 +396,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1477-product-of-the-last-k-numbers) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 <!---LeetCode Topics End-->
