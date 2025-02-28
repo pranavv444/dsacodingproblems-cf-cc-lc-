@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0067-add-binary) |
 | [0952-word-subsets](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0952-word-subsets) |
 | [1160-letter-tile-possibilities](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1160-letter-tile-possibilities) |
+| [1170-shortest-common-supersequence](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1170-shortest-common-supersequence) |
 | [1502-construct-k-palindrome-strings](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1502-construct-k-palindrome-strings) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1524-string-matching-in-an-array](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1524-string-matching-in-an-array) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1025-minimum-cost-for-tickets](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1063-best-sightseeing-pair) |
+| [1170-shortest-common-supersequence](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1170-shortest-common-supersequence) |
 | [1511-count-number-of-teams](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1511-count-number-of-teams) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
