@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2448-count-number-of-bad-pairs](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2448-count-number-of-bad-pairs) |
+| [2610-closest-prime-numbers-in-range](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2649-count-total-number-of-colored-cells) |
 | [3227-find-missing-and-repeated-values](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/3227-find-missing-and-repeated-values) |
 ## Matrix
@@ -428,4 +429,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+## Number Theory
+|  |
+| ------- |
+| [2610-closest-prime-numbers-in-range](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2610-closest-prime-numbers-in-range) |
 <!---LeetCode Topics End-->
