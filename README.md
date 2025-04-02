@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2792-neighboring-bitwise-xor](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2792-neighboring-bitwise-xor) |
 | [2868-continuous-subarrays](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2868-continuous-subarrays) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/3227-find-missing-and-repeated-values) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
