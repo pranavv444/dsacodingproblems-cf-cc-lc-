@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2888-minimum-index-of-a-valid-split](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2915-count-of-interesting-subarrays) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+| [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3227-find-missing-and-repeated-values](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/3227-find-missing-and-repeated-values) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2868-continuous-subarrays](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2868-continuous-subarrays) |
+| [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/3483-alternating-groups-ii) |
