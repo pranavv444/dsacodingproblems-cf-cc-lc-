@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3227-find-missing-and-repeated-values](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/3227-find-missing-and-repeated-values) |
+| [3321-type-of-triangle](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/3321-type-of-triangle) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3427-special-array-ii](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/3427-special-array-ii) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2649-count-total-number-of-colored-cells](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2649-count-total-number-of-colored-cells) |
 | [2998-count-symmetric-integers](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2998-count-symmetric-integers) |
 | [3227-find-missing-and-repeated-values](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/3227-find-missing-and-repeated-values) |
+| [3321-type-of-triangle](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/3321-type-of-triangle) |
 ## Matrix
 |  |
 | ------- |
@@ -402,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3321-type-of-triangle](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/3321-type-of-triangle) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## String Matching
 |  |
