@@ -503,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0386-lexicographical-numbers](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0386-lexicographical-numbers) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0820-find-eventual-safe-states](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0854-making-a-large-island) |
@@ -582,4 +583,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3201-distribute-candies-among-children-ii](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/3201-distribute-candies-among-children-ii) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
