@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2107-find-unique-binary-string](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2107-find-unique-binary-string) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2145-grid-game](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2145-grid-game) |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2215-finding-3-digit-even-numbers](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2215-finding-3-digit-even-numbers) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
