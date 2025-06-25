@@ -3,18 +3,12 @@ class Solution
 public:
     long long kthSmallestProduct(vector<int>& nums1, vector<int>& nums2, long long k) 
     {
-        // Step 1: Always use smaller array as outer loop for optimization
         if (nums1.size() > nums2.size())
         {
             return kthSmallestProduct(nums2, nums1, k);
         }
-
-        // Step 2: Define binary search range for possible products
         long long lo = -1e10;
         long long hi = 1e10;
-
-        // Step 3: Binary search for the smallest product such that
-        // at least k pairs (nums1[i] * nums2[j]) are <= that product
         while (lo < hi)
         {
             long long mid = lo + (hi - lo) / 2;
