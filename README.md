@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2915-count-of-interesting-subarrays](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2915-count-of-interesting-subarrays) |
 | [3427-special-array-ii](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/3427-special-array-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3618-find-the-original-typed-string-ii](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/3618-find-the-original-typed-string-ii) |
 | [3639-zero-array-transformation-i](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/3639-zero-array-transformation-i) |
 ## Monotonic Queue
 |  |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3455-minimum-length-of-string-after-operations](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3617-find-the-original-typed-string-i](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/3617-find-the-original-typed-string-i) |
+| [3618-find-the-original-typed-string-ii](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/3618-find-the-original-typed-string-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Math
@@ -525,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2262-solving-questions-with-brainpower](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2262-solving-questions-with-brainpower) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2562-count-ways-to-build-good-strings](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2562-count-ways-to-build-good-strings) |
+| [3618-find-the-original-typed-string-ii](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/3618-find-the-original-typed-string-ii) |
 ## Binary Indexed Tree
 |  |
 | ------- |
