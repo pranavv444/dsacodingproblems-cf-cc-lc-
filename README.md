@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1435-xor-queries-of-a-subarray](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1435-xor-queries-of-a-subarray) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1477-product-of-the-last-k-numbers](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1477-product-of-the-last-k-numbers) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1511-count-number-of-teams](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1511-count-number-of-teams) |
 | [1524-string-matching-in-an-array](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1524-string-matching-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1500-count-largest-group](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1500-count-largest-group) |
 | [1502-construct-k-palindrome-strings](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1502-construct-k-palindrome-strings) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2107-find-unique-binary-string](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2107-find-unique-binary-string) |
 | [2215-finding-3-digit-even-numbers](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2215-finding-3-digit-even-numbers) |
@@ -501,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1364-tuple-with-same-product](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1502-construct-k-palindrome-strings) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2300-construct-string-with-repeat-limit](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2300-construct-string-with-repeat-limit) |
