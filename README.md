@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1435-xor-queries-of-a-subarray](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1435-xor-queries-of-a-subarray) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1477-product-of-the-last-k-numbers](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1477-product-of-the-last-k-numbers) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1511-count-number-of-teams](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1511-count-number-of-teams) |
 | [1524-string-matching-in-an-array](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1524-string-matching-in-an-array) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0407-trapping-rain-water-ii) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2300-construct-string-with-repeat-limit](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2300-construct-string-with-repeat-limit) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2434-design-a-number-container-system](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2434-design-a-number-container-system) |
@@ -384,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0768-partition-labels](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0768-partition-labels) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1502-construct-k-palindrome-strings](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1502-construct-k-palindrome-strings) |
 | [2089-maximum-matrix-sum](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2089-maximum-matrix-sum) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -459,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0368-largest-divisible-subset) |
 | [0594-longest-harmonious-subsequence](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0594-longest-harmonious-subsequence) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2215-finding-3-digit-even-numbers](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2215-finding-3-digit-even-numbers) |
