@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/3483-alternating-groups-ii) |
+| [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -539,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2262-solving-questions-with-brainpower](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2262-solving-questions-with-brainpower) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2562-count-ways-to-build-good-strings](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2562-count-ways-to-build-good-strings) |
+| [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3618-find-the-original-typed-string-ii](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/3618-find-the-original-typed-string-ii) |
 ## Binary Indexed Tree
 |  |
