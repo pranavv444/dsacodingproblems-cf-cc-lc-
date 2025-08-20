@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0594-longest-harmonious-subsequence) |
+| [0867-new-21-game](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0867-new-21-game) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1755-defuse-the-bomb](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1755-defuse-the-bomb) |
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0368-largest-divisible-subset) |
+| [0867-new-21-game](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0867-new-21-game) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1477-product-of-the-last-k-numbers) |
 | [1500-count-largest-group](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1500-count-largest-group) |
@@ -540,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0368-largest-divisible-subset) |
 | [0494-target-sum](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0494-target-sum) |
+| [0867-new-21-game](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0867-new-21-game) |
 | [0868-push-dominoes](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -679,4 +682,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0867-new-21-game](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0867-new-21-game) |
 <!---LeetCode Topics End-->
