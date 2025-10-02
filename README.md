@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-bitwise-ors-of-subarrays](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0945-snakes-and-ladders](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0945-snakes-and-ladders) |
 | [0952-word-subsets](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0952-word-subsets) |
+| [1018-largest-perimeter-triangle](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1018-largest-perimeter-triangle) |
 | [1025-minimum-cost-for-tickets](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1025-minimum-cost-for-tickets) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1063-best-sightseeing-pair](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1063-best-sightseeing-pair) |
@@ -356,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0368-largest-divisible-subset) |
 | [0867-new-21-game](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0867-new-21-game) |
+| [1018-largest-perimeter-triangle](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1018-largest-perimeter-triangle) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1477-product-of-the-last-k-numbers) |
 | [1500-count-largest-group](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1500-count-largest-group) |
@@ -399,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0768-partition-labels](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0768-partition-labels) |
+| [1018-largest-perimeter-triangle](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1018-largest-perimeter-triangle) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1502-construct-k-palindrome-strings](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1502-construct-k-palindrome-strings) |
@@ -478,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0368-largest-divisible-subset) |
 | [0594-longest-harmonious-subsequence](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0594-longest-harmonious-subsequence) |
+| [1018-largest-perimeter-triangle](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1018-largest-perimeter-triangle) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
