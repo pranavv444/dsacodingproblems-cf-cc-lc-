@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3791-fruits-into-baskets-iii](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/3791-fruits-into-baskets-iii) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/3863-power-grid-maintenance) |
 ## Binary Search
 |  |
@@ -181,11 +182,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2456-construct-smallest-number-from-di-string](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3447-clear-digits](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/3447-clear-digits) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Sliding Window
 |  |
 | ------- |
@@ -310,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/3863-power-grid-maintenance) |
 ## String
 |  |
@@ -442,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Graph
 |  |
 | ------- |
