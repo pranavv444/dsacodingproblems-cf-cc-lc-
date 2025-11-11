@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-alternating-groups-ii](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/3483-alternating-groups-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Queue
 |  |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2868-continuous-subarrays](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2868-continuous-subarrays) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3863-power-grid-maintenance](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/3863-power-grid-maintenance) |
 ## Prefix Sum
@@ -309,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
