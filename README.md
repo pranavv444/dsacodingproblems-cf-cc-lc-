@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2564-most-profitable-path-in-a-tree](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2625-increment-submatrices-by-one](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2625-increment-submatrices-by-one) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2681-put-marbles-in-bags](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2681-put-marbles-in-bags) |
 | [2685-first-completely-painted-row-or-column](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2685-first-completely-painted-row-or-column) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2358-number-of-ways-to-split-array](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2358-number-of-ways-to-split-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2465-shifting-letters-ii](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2465-shifting-letters-ii) |
+| [2625-increment-submatrices-by-one](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2625-increment-submatrices-by-one) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2915-count-of-interesting-subarrays](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2915-count-of-interesting-subarrays) |
 | [3427-special-array-ii](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/3427-special-array-ii) |
@@ -422,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2625-increment-submatrices-by-one](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2625-increment-submatrices-by-one) |
 | [2685-first-completely-painted-row-or-column](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/3227-find-missing-and-repeated-values) |
