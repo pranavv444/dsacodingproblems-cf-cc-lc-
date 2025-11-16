@@ -338,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -387,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1477-product-of-the-last-k-numbers) |
 | [1500-count-largest-group](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1500-count-largest-group) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2050-count-good-numbers](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2050-count-good-numbers) |
