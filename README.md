@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2888-minimum-index-of-a-valid-split](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2915-count-of-interesting-subarrays) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3194-find-words-containing-character](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/3194-find-words-containing-character) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3227-find-missing-and-repeated-values](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/3227-find-missing-and-repeated-values) |
@@ -405,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2998-count-symmetric-integers](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2998-count-symmetric-integers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3201-distribute-candies-among-children-ii](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/3201-distribute-candies-among-children-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/3321-type-of-triangle) |
