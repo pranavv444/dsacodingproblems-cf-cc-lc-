@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-maximum-matrix-sum](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2089-maximum-matrix-sum) |
 | [2107-find-unique-binary-string](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2107-find-unique-binary-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2145-grid-game](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2145-grid-game) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -451,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2089-maximum-matrix-sum](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2089-maximum-matrix-sum) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2300-construct-string-with-repeat-limit](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2300-construct-string-with-repeat-limit) |
@@ -536,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2215-finding-3-digit-even-numbers](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2215-finding-3-digit-even-numbers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2274-keep-multiplying-found-values-by-two) |
