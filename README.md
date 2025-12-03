@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-shifting-letters-ii](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2465-shifting-letters-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2478-longest-nice-subarray](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2478-longest-nice-subarray) |
+| [2528-maximize-the-minimum-powered-city](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2528-maximize-the-minimum-powered-city) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2551-apply-operations-to-an-array](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2551-apply-operations-to-an-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2528-maximize-the-minimum-powered-city](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2528-maximize-the-minimum-powered-city) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2478-longest-nice-subarray) |
+| [2528-maximize-the-minimum-powered-city](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2528-maximize-the-minimum-powered-city) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2868-continuous-subarrays](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2868-continuous-subarrays) |
@@ -226,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [2528-maximize-the-minimum-powered-city](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2528-maximize-the-minimum-powered-city) |
 | [2868-continuous-subarrays](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2868-continuous-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Heap (Priority Queue)
@@ -262,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2358-number-of-ways-to-split-array](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2358-number-of-ways-to-split-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2465-shifting-letters-ii](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2465-shifting-letters-ii) |
+| [2528-maximize-the-minimum-powered-city](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2528-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2625-increment-submatrices-by-one) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2915-count-of-interesting-subarrays](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2915-count-of-interesting-subarrays) |
@@ -464,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2456-construct-smallest-number-from-di-string](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2509-minimize-xor](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2509-minimize-xor) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2528-maximize-the-minimum-powered-city](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2528-maximize-the-minimum-powered-city) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2681-put-marbles-in-bags](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2681-put-marbles-in-bags) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2704-maximum-difference-by-remapping-a-digit) |
