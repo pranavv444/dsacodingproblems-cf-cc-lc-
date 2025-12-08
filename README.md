@@ -413,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-number-of-substrings-with-only-1s](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [1925-count-square-sum-triples](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1925-count-square-sum-triples) |
 | [2050-count-good-numbers](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -754,6 +755,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1656-count-good-triplets](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1656-count-good-triplets) |
+| [1925-count-square-sum-triples](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1925-count-square-sum-triples) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2215-finding-3-digit-even-numbers](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2215-finding-3-digit-even-numbers) |
 | [2998-count-symmetric-integers](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2998-count-symmetric-integers) |
