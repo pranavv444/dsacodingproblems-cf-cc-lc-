@@ -10,7 +10,7 @@ public:
             }
         }
         if(vt.size()%2 || vt.size()==0) return 0;
-        long ans=1;
+        long long ans=1;
         for(int i=2;i<vt.size();i+=2){
             int gap=vt[i]-vt[i-1];
             ans=(ans*gap)%mod;
