@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3606-coupon-code-validator](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/3606-coupon-code-validator) |
@@ -667,6 +668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2562-count-ways-to-build-good-strings](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2562-count-ways-to-build-good-strings) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3618-find-the-original-typed-string-ii](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/3618-find-the-original-typed-string-ii) |
 ## Binary Indexed Tree
@@ -695,6 +697,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2564-most-profitable-path-in-a-tree) |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -710,6 +713,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3863-power-grid-maintenance](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/3863-power-grid-maintenance) |
 ## Binary Tree
 |  |
