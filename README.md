@@ -511,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1558-course-schedule-iv) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2092-find-all-people-with-secret](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2092-find-all-people-with-secret) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -532,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1558-course-schedule-iv) |
 | [1876-map-of-highest-peak](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1876-map-of-highest-peak) |
+| [2092-find-all-people-with-secret](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2092-find-all-people-with-secret) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -575,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [2092-find-all-people-with-secret](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2092-find-all-people-with-secret) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2215-finding-3-digit-even-numbers](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2215-finding-3-digit-even-numbers) |
@@ -713,6 +716,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1558-course-schedule-iv) |
+| [2092-find-all-people-with-secret](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2092-find-all-people-with-secret) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -747,6 +751,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0854-making-a-large-island](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1396-count-servers-that-communicate) |
+| [2092-find-all-people-with-secret](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2092-find-all-people-with-secret) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2764-maximum-number-of-fish-in-a-grid) |
