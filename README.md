@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-delete-columns-to-make-sorted](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0944-delete-columns-to-make-sorted) |
 | [0945-snakes-and-ladders](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0945-snakes-and-ladders) |
 | [0952-word-subsets](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0952-word-subsets) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1018-largest-perimeter-triangle](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1018-largest-perimeter-triangle) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1025-minimum-cost-for-tickets](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1025-minimum-cost-for-tickets) |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-push-dominoes](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0868-push-dominoes) |
 | [0944-delete-columns-to-make-sorted](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0944-delete-columns-to-make-sorted) |
 | [0952-word-subsets](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0952-word-subsets) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1160-letter-tile-possibilities](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1170-shortest-common-supersequence) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -481,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0759-set-intersection-size-at-least-two](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0759-set-intersection-size-at-least-two) |
 | [0768-partition-labels](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0768-partition-labels) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1018-largest-perimeter-triangle](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1018-largest-perimeter-triangle) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1262-greatest-sum-divisible-by-three) |
