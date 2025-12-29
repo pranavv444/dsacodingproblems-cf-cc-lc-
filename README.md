@@ -309,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0073-set-matrix-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0594-longest-harmonious-subsequence) |
+| [0756-pyramid-transition-matrix](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0756-pyramid-transition-matrix) |
 | [0768-partition-labels](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0768-partition-labels) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0067-add-binary) |
+| [0756-pyramid-transition-matrix](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0756-pyramid-transition-matrix) |
 | [0768-partition-labels](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0868-push-dominoes) |
 | [0944-delete-columns-to-make-sorted](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0944-delete-columns-to-make-sorted) |
@@ -568,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0067-add-binary) |
 | [0342-power-of-four](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0342-power-of-four) |
+| [0756-pyramid-transition-matrix](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0756-pyramid-transition-matrix) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1435-xor-queries-of-a-subarray](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1435-xor-queries-of-a-subarray) |
@@ -751,6 +754,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0494-target-sum) |
+| [0756-pyramid-transition-matrix](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0756-pyramid-transition-matrix) |
 | [1160-letter-tile-possibilities](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
