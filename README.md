@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0594-longest-harmonious-subsequence) |
 | [0759-set-intersection-size-at-least-two](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0759-set-intersection-size-at-least-two) |
+| [0840-magic-squares-in-grid](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0840-magic-squares-in-grid) |
 | [0854-making-a-large-island](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0854-making-a-large-island) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0594-longest-harmonious-subsequence) |
 | [0756-pyramid-transition-matrix](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0756-pyramid-transition-matrix) |
 | [0768-partition-labels](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0768-partition-labels) |
+| [0840-magic-squares-in-grid](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0840-magic-squares-in-grid) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0952-word-subsets) |
@@ -428,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0368-largest-divisible-subset) |
+| [0840-magic-squares-in-grid](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0840-magic-squares-in-grid) |
 | [0867-new-21-game](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0867-new-21-game) |
 | [1018-largest-perimeter-triangle](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1018-largest-perimeter-triangle) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -469,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0073-set-matrix-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0407-trapping-rain-water-ii) |
+| [0840-magic-squares-in-grid](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0840-magic-squares-in-grid) |
 | [0854-making-a-large-island](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0854-making-a-large-island) |
 | [0945-snakes-and-ladders](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0945-snakes-and-ladders) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
