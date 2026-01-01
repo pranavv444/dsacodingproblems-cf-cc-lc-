@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0073-set-matrix-zeroes) |
 | [0189-rotate-array](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0189-rotate-array) |
 | [0368-largest-divisible-subset](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0368-largest-divisible-subset) |
@@ -425,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0189-rotate-array) |
 | [0326-power-of-three](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0326-power-of-three) |
