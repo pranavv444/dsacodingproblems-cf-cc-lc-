@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1364-tuple-with-same-product](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1364-tuple-with-same-product) |
+| [1390-four-divisors](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1390-four-divisors) |
 | [1396-count-servers-that-communicate](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1396-count-servers-that-communicate) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1435-xor-queries-of-a-subarray](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1435-xor-queries-of-a-subarray) |
@@ -437,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0840-magic-squares-in-grid](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0840-magic-squares-in-grid) |
 | [0867-new-21-game](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0867-new-21-game) |
 | [1018-largest-perimeter-triangle](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1018-largest-perimeter-triangle) |
+| [1390-four-divisors](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1390-four-divisors) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1477-product-of-the-last-k-numbers) |
 | [1500-count-largest-group](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1500-count-largest-group) |
