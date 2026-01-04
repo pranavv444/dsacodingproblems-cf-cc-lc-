@@ -1,0 +1,24 @@
+class Solution {
+public:
+    int sumFourDivisors(vector<int>& nums) {
+        int tsum=0;
+        for(int x:nums){
+            int cnt=0;
+            int sum=0;
+            for(int i=1;i*i<=x;i++){
+                if(x%i==0){
+                    int j=x/i;
+                    cnt++;
+                    sum+=i;
+                    if(i!=j){
+                        cnt++;
+                        sum+=j;
+                    }
+                    if(cnt>4) break;
+                }
+            }
+            if(cnt==4) tsum+=sum;
+        }
+        return tsum;
+    }
+};
