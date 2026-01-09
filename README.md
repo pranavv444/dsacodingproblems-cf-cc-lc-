@@ -317,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0756-pyramid-transition-matrix](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0756-pyramid-transition-matrix) |
 | [0768-partition-labels](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0768-partition-labels) |
 | [0840-magic-squares-in-grid](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0840-magic-squares-in-grid) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0952-word-subsets) |
@@ -557,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0820-find-eventual-safe-states](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0854-making-a-large-island) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0945-snakes-and-ladders](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0945-snakes-and-ladders) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1396-count-servers-that-communicate) |
@@ -730,6 +732,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -745,6 +748,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0820-find-eventual-safe-states](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0854-making-a-large-island) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -761,6 +765,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
