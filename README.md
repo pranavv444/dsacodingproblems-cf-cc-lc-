@@ -373,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0067-add-binary) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0756-pyramid-transition-matrix) |
 | [0768-partition-labels](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0868-push-dominoes) |
@@ -688,6 +689,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0368-largest-divisible-subset) |
 | [0494-target-sum](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0494-target-sum) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0867-new-21-game](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0867-new-21-game) |
 | [0868-push-dominoes](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/0905-length-of-longest-fibonacci-subsequence) |
