@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2868-continuous-subarrays](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2868-continuous-subarrays) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2915-count-of-interesting-subarrays) |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3074-apple-redistribution-into-boxes](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
@@ -629,6 +630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2888-minimum-index-of-a-valid-split) |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3074-apple-redistribution-into-boxes](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/3241-divide-array-into-arrays-with-max-difference) |
