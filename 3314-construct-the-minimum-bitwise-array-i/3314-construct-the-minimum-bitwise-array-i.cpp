@@ -2,20 +2,10 @@ class Solution {
 public:
     vector<int> minBitwiseArray(vector<int>& nums) {
         vector<int>res;
-        for(int num:nums){
-            bool found=false;
-            for(int i=0;i<num;i++){
-                if((i|(i+1))==num){
-                    res.push_back(i);
-                    found=true;
-                    break;
-                }
-            }
-            if(!found){
-                res.push_back(-1);
-            }
+        for(int n:nums){
+            if(n!=2) res.push_back(n-((n+1) &(-n-1))/2);
+            else res.push_back(-1);
         }
         return res;
-        
     }
 };
