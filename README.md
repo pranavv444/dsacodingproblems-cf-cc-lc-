@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3637-trionic-array-i](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/3637-trionic-array-i) |
 | [3639-zero-array-transformation-i](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/3639-zero-array-transformation-i) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
