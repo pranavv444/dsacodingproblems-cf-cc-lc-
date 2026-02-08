@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/3321-type-of-triangle) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3379-transformed-array](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/3379-transformed-array) |
 | [3427-special-array-ii](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/3427-special-array-ii) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/3433-count-mentions-per-user) |
@@ -682,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3336-water-bottles-ii](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/3336-water-bottles-ii) |
+| [3379-transformed-array](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/3379-transformed-array) |
 | [3433-count-mentions-per-user](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/3433-count-mentions-per-user) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/pranavv444/dsacodingproblems-cf-cc-lc-/tree/master/3447-clear-digits) |
